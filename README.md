@@ -1,4 +1,4 @@
-# Movie Management System - Final Student DSA Version
+# Movie Management System 
 
 This is the final C++ OOP project version prepared for Visual Studio 2017.
 
